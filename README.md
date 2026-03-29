@@ -13,8 +13,7 @@ Mahadev 555 Store is a modern fashion website built using HTML, CSS, and JavaScr
 - Smooth hover effects
 
 ## Live Website
-
-https://phenomenal-pithivier-a07cc5.netlify.app/
+https://comfy-fudge-bcbc3c.netlify.app/
 
 ## Technologies Used
 
